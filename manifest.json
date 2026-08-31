@@ -1,0 +1,14 @@
+{
+  "name": "Carnet de comptes",
+  "short_name": "Carnet",
+  "description": "Suivi mensuel des entrées et sorties, 100% local",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1F3A34",
+  "theme_color": "#1F3A34",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
